@@ -1,0 +1,42 @@
+[
+    {
+        "id": 4,
+        "full_name": "Jane Smith",
+        "profile_picture": "https://example.com/images/janesmith.jpg",
+        "email": "janesmith@example.com",
+        "phone_number": "+0987654321",
+        "address": "456 Employee Avenue, Company Town, ABC Country",
+        "dob": "1990-07-15",
+        "username": "janesmith_emp",
+        "password": "$2y$12$eQKOknnvniIuQ6tn79hJTO0Tk/WqMfubh2WuEBflQcSlyECfgBHV6A", 
+        "role": "employee"
+      },
+      
+      {
+        "id": 5,
+        "full_name": "Jane marker",
+        "profile_picture": "https://example.com/images/janesmith.jpg",
+        "email": "janesmith@example.com",
+        "phone_number": "+0987654321",
+        "address": "456 Employee Avenue, Company Town, ABC Country",
+        "dob": "1990-07-15",
+        "username": "janesmith_emp",
+        "password": "$2y$12$eQKOknnvniIuQ6tn79hJTO0Tk/WqMfubh2WuEBflQcSlyECfgBHV6A",  
+        "role": "employee"
+      },
+      {
+        "id": 6,
+        "full_name": "Jane lager",
+        "profile_picture": "https://example.com/images/janesmith.jpg",
+        "email": "janesmith@example.com",
+        "phone_number": "+0987654321",
+        "address": "456 Employee Avenue, Company Town, ABC Country",
+        "dob": "1990-07-15",
+        "username": "janesmith_emp",
+        "password": "$2y$12$eQKOknnvniIuQ6tn79hJTO0Tk/WqMfubh2WuEBflQcSlyECfgBHV6A",
+        "role": "employee"
+      }
+      
+      
+      
+]
