@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "full_name": "John Doe",
+        "profile_picture": "https://example.com/images/johndoe.jpg",
+        "email": "johndoe@example.com",
+        "phone_number": "+1234567890",
+        "address": "123 Admin Street, Business City, XYZ Country",
+        "dob": "1985-03-25",
+        "username": "johndoe_admin",
+        "password": "$2y$12$8zKOPWl1S62rxjcFCMNciDJgVXe1Jlrj.Eg.m7be/axDVuZ2KMbcW", 
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "full_name": "john wick",
+        "profile_picture": "https://example.com/images/johnwick.jpg",
+        "email": "johnwick@example.com",
+        "phone_number": "+1234567890",
+        "address": "123 Admin Street, Business City, XYZ Country",
+        "dob": "1985-03-25",
+        "username": "johnwick_admin",
+        "password": "$2y$12$8zKOPWl1S62rxjcFCMNciDJgVXe1Jlrj.Eg.m7be/axDVuZ2KMbcW", 
+        "role": "admin"
+      },
+      {
+        "id": 2,
+        "full_name": "john carter",
+        "profile_picture": "https://example.com/images/johncarter.jpg",
+        "email": "johncarter@example.com",
+        "phone_number": "+1234567890",
+        "address": "123 Admin Street, Business City, XYZ Country",
+        "dob": "1985-03-25",
+        "username": "johncarter_admin",
+        "password": "$2y$12$8zKOPWl1S62rxjcFCMNciDJgVXe1Jlrj.Eg.m7be/axDVuZ2KMbcW", 
+        "role": "admin"
+      }
+      
+]

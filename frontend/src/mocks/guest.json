@@ -1,0 +1,15 @@
+[
+    {
+        "id": 7,
+        "full_name": "Guest User",
+        "profile_picture": "https://example.com/images/guestuser.jpg",
+        "email": "guestuser@example.com",
+        "phone_number": "N/A",
+        "address": "N/A",
+        "dob": "2000-01-01",
+        "username": "guest_user",
+        "password": "guestpassword123",
+        "role": "guest"
+      }
+      
+]
