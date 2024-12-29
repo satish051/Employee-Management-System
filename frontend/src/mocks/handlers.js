@@ -2,7 +2,7 @@ import { http,HttpResponse } from 'msw';
 import admin from './admin.json';
 
 export const handlers = [
-  http.get('api/admins', () => {
+  http.get('http://localhost:5173/api/admins', () => {
     return HttpResponse.json(admin);
   }),
 
